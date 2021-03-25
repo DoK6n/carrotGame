@@ -100,7 +100,7 @@ comment
 
 <br>
 
-[당근 뽑으러 가기/](https://dok6n.github.io/carrotame/)
+[당근 뽑으러 가기](https://dok6n.github.io/carrotgame/)
 
 <br>
 
