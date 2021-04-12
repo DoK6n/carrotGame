@@ -1,3 +1,4 @@
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DoK6n/carrotgame)
 # 당근 뽑기 게임
 ---
 
