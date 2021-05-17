@@ -96,8 +96,6 @@ const game = new GameBuilder()
 	
 ```
 
-comment
-
 ## ❗️ 링크
 
 <br>
